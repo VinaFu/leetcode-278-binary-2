@@ -24,5 +24,7 @@
                         else:
                             r = mid -1
                               # 这里只有两个可能：T/F。
-                              # 因为要的是最大的false，所以跟着false走，取了left
+                              # 因为要的是最小的True，所以取得反向临界，反而取了left/false
                     return l 
+                    
+ # 临界值：反向下面的。如： l - F; r - T. need T, get l!!!!
