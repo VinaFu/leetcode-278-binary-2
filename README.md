@@ -1,10 +1,10 @@
 # leetcode-278-binary-2
 
 
-# The isBadVersion API is already defined for you.
-# @param version, an integer
-# @return a bool
-# def isBadVersion(version):
+            #The isBadVersion API is already defined for you.
+            #@param version, an integer
+            #@return a bool
+            #def isBadVersion(version):
 
 二分法取临界值：
 
